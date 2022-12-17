@@ -9,3 +9,5 @@ Lembrando que o algoritmo comb sort é instável. O tempo de execução é muito
 Caso 1- Valor do vetor muito grande
 Caso 2- Valores com diferenças altas entre eles
 Caso 3- Valor do Índice muito grande
+
+LINK Video - https://youtu.be/6N28hgvgrKs
